@@ -1,7 +1,7 @@
 #include <string>
 #include <iostream>
 
-//se resta le resta el tamaño de ending al de str
+//se le resta el tamaño de ending al de str
 //se crea un string a partir de ese numero
 //se lo compara con ending
 //return dice si el final de str es igual a ending
